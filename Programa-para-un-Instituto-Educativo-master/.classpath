@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="tp6-rocha-mesconi-coro-gimenez/src/main/java"/>
+	<classpathentry kind="lib" path="tp6-rocha-mesconi-coro-gimenez/target/tp6-rocha-mesconi-coro-gimenez-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="tp6-rocha-mesconi-coro-gimenez/target/classes"/>
+</classpath>
